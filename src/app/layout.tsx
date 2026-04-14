@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 import CustomCursor from '@/components/CustomCursor'
 
 export const metadata: Metadata = {
-  title: 'Kodbank',
+  title: 'bankappl',
   description: 'Premium fintech banking experience',
 }
 

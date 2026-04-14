@@ -107,7 +107,7 @@ export default function Dashboard() {
 
       <aside className="w-64 glass border-r border-neon/20 p-6 flex flex-col relative z-10">
         <div className="mb-8">
-          <h2 className="text-2xl font-bold text-neon">KODBANK</h2>
+          <h2 className="text-2xl font-bold text-neon">BANKAPPL</h2>
           <p className="text-xs text-gray-400">Premium Banking</p>
         </div>
 
